@@ -1,0 +1,13 @@
+build
+Log/*.png
+Log/*.txt
+Log/*.csv
+Log/*.pdf
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+PCD/*.pcd
+.idea
+cmake-build-debug
+*.pyc
+*_extractor.py
+__pycache__/
